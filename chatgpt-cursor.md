@@ -5,7 +5,7 @@ Generate a markdown file "instructions.md" with PR style complete iterative prom
 #Sources:
 
 /Cursor Prompts Examples
-
+https://cursor.com/blog/prompt-design
 https://docs.cursor.com/en/welcome
 https://docs.cursor.com/
 https://docs.cursor.com/en/cli/overview
